@@ -1,1 +1,2 @@
-# Student-Management
+# Management of training department
+
