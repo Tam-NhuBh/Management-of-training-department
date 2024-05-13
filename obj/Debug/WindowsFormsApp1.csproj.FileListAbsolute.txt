@@ -1,0 +1,276 @@
+E:\Wìnorm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Wìnorm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Wìnorm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Wìnorm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Wìnorm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Wìnorm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Wìnorm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Wìnorm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Wìnorm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Wìnorm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddStudentForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormStudent.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm01.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ResetPassword.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sendCode.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.studentListForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UpdateDeleteStudentForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageStudent.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditRemove.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaticForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PrintStudentFrom.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\bin\Debug\ExcelNumberFormat.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\bin\Debug\System.IO.Packaging.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\bin\Debug\ExcelNumberFormat.xml
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\bin\Debug\itextsharp.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\WindowsFormsApp1\bin\Debug\itextsharp.xml
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\bin\Debug\ExcelNumberFormat.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\bin\Debug\itextsharp.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\bin\Debug\System.IO.Packaging.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\bin\Debug\ExcelNumberFormat.xml
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\bin\Debug\itextsharp.xml
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddCourseForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddStudentForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditRemove.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormStudent.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm01.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageStudent.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PrintStudentFrom.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ResetPassword.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sendCode.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StaticForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.studentListForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UpdateDeleteStudentForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EdiCourseForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RemoveCourseForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ManageForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.AddCourseForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.AddStudentForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.EdiCourseForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.EditRemove.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.FormStudent.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.LoginForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.MainForm01.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.ManageForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.ManageStudent.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.PrintStudentFrom.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.Register.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.RemoveCourseForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.ResetPassword.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.sendCode.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.StaticForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.studentListForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.UpdateDeleteStudentForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.exe
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.pdb
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\WindowsFormsApp1.exe.config
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\WindowsFormsApp1.exe
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\WindowsFormsApp1.pdb
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\BouncyCastle.Crypto.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\ExcelNumberFormat.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\itextsharp.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\System.IO.Packaging.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\ExcelNumberFormat.xml
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\itextsharp.xml
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\EPPlus.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\EPPlus.Interfaces.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\EPPlus.System.Drawing.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\EPPlus.xml
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\WebDriver.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\SautinSoft.PdfFocus.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\SautinSoft.PdfFocus.xml
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.SpashForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\Xceed.Document.NET.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\bin\Debug\Xceed.Words.NET.dll
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.PrintCourseForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.Student.ErollCourseForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.Score.FormAddScore.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.Score.FormAverage.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.Score.FormManageScore.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.Score.FormPrintScore.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.Score.FormRemoveScorecs.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.Score.Print.ChildPrintCourse.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.Score.Print.ChildPrintStudent.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.Result.StatisticResult.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.Result.ChartCourse.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.Result.FormAVGResultByScore.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.HR.AddNewContact.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.HR.ChooseContactofHR.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.HR.EditContact.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.HR.FullContact.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.HR.MainHRForm.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.HR.ChooseClass.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.HR.ManagerHRContact.resources
+F:\Năm 3 kì 2\Winform\Bài tập\LoginForm\CodeCuaCucNo\ClassProject\obj\Debug\WindowsFormsApp1.EditAccount.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.AddCourseForm.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.EditAccount.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.HR.ManagerHRContact.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.AddStudentForm.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.EdiCourseForm.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.EditRemove.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.HR.AddNewContact.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.HR.ChooseClass.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.HR.ChooseContactofHR.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.HR.EditContact.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.HR.FullContact.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.HR.MainHRForm.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.LoginForm.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.MainForm01.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.ManageForm.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.ManageStudent.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.PrintCourseForm.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.PrintStudentFrom.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.Register.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.RemoveCourseForm.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.ResetPassword.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.Result.ChartCourse.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.Result.FormAVGResultByScore.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.Result.StatisticResult.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.Score.FormAddScore.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.Score.FormAverage.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.Score.FormManageScore.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.Score.FormPrintScore.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.Score.FormRemoveScorecs.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.Score.Print.ChildPrintCourse.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.Score.Print.ChildPrintStudent.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.sendCode.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.SpashForm.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.StaticForm.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.studentListForm.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.Student.ErollCourseForm.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.UpdateDeleteStudentForm.resources
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.exe
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.pdb
+E:\Wìnorm\ClassProject\bin\Debug\WindowsFormsApp1.exe.config
+E:\Wìnorm\ClassProject\bin\Debug\WindowsFormsApp1.exe
+E:\Wìnorm\ClassProject\bin\Debug\WindowsFormsApp1.pdb
+E:\Wìnorm\ClassProject\bin\Debug\BouncyCastle.Crypto.dll
+E:\Wìnorm\ClassProject\bin\Debug\EPPlus.dll
+E:\Wìnorm\ClassProject\bin\Debug\EPPlus.Interfaces.dll
+E:\Wìnorm\ClassProject\bin\Debug\EPPlus.System.Drawing.dll
+E:\Wìnorm\ClassProject\bin\Debug\ExcelNumberFormat.dll
+E:\Wìnorm\ClassProject\bin\Debug\itextsharp.dll
+E:\Wìnorm\ClassProject\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Wìnorm\ClassProject\bin\Debug\SautinSoft.PdfFocus.dll
+E:\Wìnorm\ClassProject\bin\Debug\System.IO.Packaging.dll
+E:\Wìnorm\ClassProject\bin\Debug\WebDriver.dll
+E:\Wìnorm\ClassProject\bin\Debug\Xceed.Document.NET.dll
+E:\Wìnorm\ClassProject\bin\Debug\Xceed.Words.NET.dll
+E:\Wìnorm\ClassProject\bin\Debug\EPPlus.xml
+E:\Wìnorm\ClassProject\bin\Debug\ExcelNumberFormat.xml
+E:\Wìnorm\ClassProject\bin\Debug\itextsharp.xml
+E:\Wìnorm\ClassProject\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Wìnorm\ClassProject\bin\Debug\SautinSoft.PdfFocus.xml
+E:\Wìnorm\ClassProject\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\WindowsFormsApp1.exe.config
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\WindowsFormsApp1.exe
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\WindowsFormsApp1.pdb
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\BouncyCastle.Crypto.dll
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\EPPlus.dll
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\EPPlus.Interfaces.dll
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\EPPlus.System.Drawing.dll
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\ExcelNumberFormat.dll
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\itextsharp.dll
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\SautinSoft.PdfFocus.dll
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\System.IO.Packaging.dll
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\WebDriver.dll
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\Xceed.Document.NET.dll
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\Xceed.Words.NET.dll
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\EPPlus.xml
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\ExcelNumberFormat.xml
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\itextsharp.xml
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\bin\Debug\SautinSoft.PdfFocus.xml
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.AddCourseForm.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.EditAccount.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.HR.ManagerHRContact.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.AddStudentForm.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.EdiCourseForm.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.EditRemove.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.HR.AddNewContact.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.HR.ChooseClass.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.HR.ChooseContactofHR.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.HR.EditContact.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.HR.FullContact.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.HR.MainHRForm.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.LoginForm.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.MainForm01.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.ManageForm.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.ManageStudent.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.PrintCourseForm.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.PrintStudentFrom.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.Register.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.RemoveCourseForm.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.ResetPassword.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.Result.ChartCourse.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.Result.FormAVGResultByScore.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.Result.StatisticResult.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.Score.FormAddScore.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.Score.FormAverage.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.Score.FormManageScore.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.Score.FormPrintScore.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.Score.FormRemoveScorecs.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.Score.Print.ChildPrintCourse.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.Score.Print.ChildPrintStudent.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.sendCode.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.SpashForm.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.StaticForm.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.studentListForm.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.Student.ErollCourseForm.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.UpdateDeleteStudentForm.resources
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.exe
+D:\download D\Tai Lieu\Năm 2\ClassProject\Student-Management\obj\Debug\WindowsFormsApp1.pdb
